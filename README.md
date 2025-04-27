@@ -6,7 +6,7 @@
 
 
 <p align="center">
- <img src="https://files.catbox.moe/rglenw.jpg"  width="780px">
+ <img src="https://files.catbox.moe/0sm1h3.mp4"  width="780px">
 
 
 
@@ -25,7 +25,7 @@
 
 *_Start by forking this repository to your own GitHub account. Click the button below to fork:_*
 
-  <a href="https://github.com/Sudaisz/Momo-md/fork"><img title="Queen-AI" src="https://img.shields.io/badge/FORK-Momo-mdh?color=darkpink&style=for-the-badge&logo=stackshare"></a>
+  <a href="https://github.com/AiOfLautech/Queen-AI/fork"><img title="Queen-AI" src="https://img.shields.io/badge/FORK-Momo-mdh?color=darkpink&style=for-the-badge&logo=stackshare"></a>
    
 **2. Second Step** 
 
@@ -123,7 +123,7 @@ jobs:
 |**[`MALVIN-XMD`](https://github.com/kingmalvn/MALVIN-XMD)**|
  <br>
  
- href="https://github.com/Sudaisz/Momo-md"><img src="https://files.catbox.moe/rglenw.jpg" width=80 height=80></a>   
+<a href="https://github.com/Sudaisz/Momo-md"><img src="https://files.catbox.moe/rglenw.jpg" width=80 height=80></a>   
 
 |**[`MOMO-MD`](https://github.com/Sudaisz/Momo-md)**|
  <br>
