@@ -2,7 +2,7 @@
   
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> QUEEN AI - MULTI DEVICE WHATSAPP BOT <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 
-<a href=""><img src="https://readme-typing-svg.demolab.com/?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=🌟+WELCOME+TO+Queen+AI;🚀+MULTI-DEVICE+WHATSAPP+BOT;👑+DEVELOPED+BY+AI+OF+LAUTECH" alt="Typing SVG" /></a>
+<a href=""><img src="https://readme-typing-svg.demolab.com/?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&line=🌟+WELCOME+TO+Queen+AI;🚀+MULTI-DEVICE+WHATSAPP+BOT;👑+DEVELOPED+BY+AI+OF+LAUTECH" alt="Typing SVG" /></a>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="100" width="100%">
 
@@ -20,7 +20,7 @@
 [![Fork Now](https://img.shields.io/badge/🔱_FORK_REPO-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AiOfLautech/Queen-AI/fork)
 
 ### 2. Get Session ID
-[![Get Session](https://img.shields.io/badge/🔑_GET_SESSION-4285F4?style=for-the-badge&logo=heroku&logoColor=white)](https://queen-ai-whatsapp-pairing.zone.id)
+[![Get Session](https://img.shields.io/badge/🔑_GET_SESSION-4285F4?style=for-the-badge&logo=render&logoColor=white)](https://queen-ai-whatsapp-pairing.zone.id)
 
 ---
 
