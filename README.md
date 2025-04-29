@@ -1,134 +1,99 @@
-
 <div align="center">
+  
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> QUEEN AI - MULTI DEVICE WHATSAPP BOT <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=WELCOME+TO+Queen+AI;MULTI-DEVICE+WHATSAPP+BOT;DEVELOPED+BY; AI+OF+LAUTECH." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=🌟+WELCOME+TO+Queen+AI;🚀+MULTI-DEVICE+WHATSAPP+BOT;👑+DEVELOPED+BY+AI+OF+LAUTECH" alt="Typing SVG" /></a>
+
 <img src="https://i.imgur.com/dBaSKWF.gif" height="100" width="100%">
 
+🎀 **Queen AI WA BOT - ENCRYPTED & SECURE** 🎀
 
-<p align="center">
-    <iframe src="https://files.catbox.moe/0sm1h3.mp4" width="780px" height="439px" frameborder="0" allowfullscreen></iframe>
+[![WhatsApp Channel](https://img.shields.io/badge/🔰_Follow_Our_Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://whatsapp.com/channel/0029VaXKAEoKmCPS6Jz7sw0N)
 
+</div>
 
+---
 
-// 🎀 Queen AI WA BOT DONT CLONE IS ENCRYPTED. 🎀  //
+## 🛠️ Deployment Guide
 
-<a href="https://whatsapp.com/channel/0029VaXKAEoKmCPS6Jz7sw0N"><img src="https://img.shields.io/badge/Follow%20Our%20WhatsApp%20Channel-green"  width="350"></a>
+### 1. Fork Repository
+[![Fork Now](https://img.shields.io/badge/🔱_FORK_REPO-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AiOfLautech/Queen-AI/fork)
 
- </details>
- <hr>
- <img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=Created+By+AI+OF+LAUTECH" alt="">
-  <hr>
+### 2. Get Session ID
+[![Get Session](https://img.shields.io/badge/🔑_GET_SESSION-4285F4?style=for-the-badge&logo=heroku&logoColor=white)](https://queen-ai-whatsapp-pairing.zone.id)
 
-  #*How to deploy**
+---
 
-**1. Fork This Repository**
+## 🚀 Deployment Methods
 
-*_Start by forking this repository to your own GitHub account. Click the button below to fork:_*
+### 3. Deploy to Render
+[![Render](https://img.shields.io/badge/RENDER_Deploy-%2300C7B7.svg?style=for-the-badge&logo=render&logoColor=white)](https://dashboard.render.com/web/new)
 
-  <a href="https://github.com/AiOfLautech/Queen-AI/fork"><img title="Queen-AI" src="https://img.shields.io/badge/FORK-𝚀𝚞𝚎𝚎𝚗 𝙰𝙸-mdh?color=darkpink&style=for-the-badge&logo=stackshare"></a>
-   
-**2. Second Step** 
+### 4. Deploy to Heroku
+[![Deploy](https://img.shields.io/badge/HEROKU_Deploy-430098?style=for-the-badge&logo=heroku&logoColor=white)](https://dashboard.heroku.com/new?template=https://github.com/AiOfLautech/Queen-AI)
 
-*_You will need a session ID to run the MEXUS-XMD. Click the button below to obtain your session ID.if any error in loading site try vpn:_*
+---
 
-  <a
-href="https://malvinxpair-43d986d85eed.herokuapp.com/pair"><img title="Pair Session" src="https://img.shields.io/badge/GET-SESSION-CODEh?color=darkblue&style=for-the-badge&logo=replit"></a>
-
-
-<hr>
-<hr>
-
-## DEPLOYMENT METHODS
-
-3. ## Deploy to RENDER ↓
-
-<p align="centre">
-<a href='https://dashboard.render.com/web/new' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-Render deploy-black?style=for-the-badge&logo=render&logoColor=white'/< width=150 height=30/p></a>
-
-4. ## Deploy to HEROKU
-
-[![Deploy to HEROKU](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/Sudaisz/Momo-md)
-
-**5. Github Workflow**
-
-
- --------
- <h4 align="center">5. Workflow</h4>
-<p style="text-align: center; font-size: 1.2em;">
-
-
-<details>
-
-<b><strong><summary align="center" style="color: Yello;">Deploy Queen AI On Workflow</summary></strong></b>
-<p style="text-align: center; font-size: 1.2em;">
- 
-<h8>Copy the workflow codes and then frok the repo edit config add session id then save and now click on repo action tag then click on start new workflow then paste workflow codes rename main.yml to deploy.yml and save the file</h8>
-<h3 align-"center"> Important</h3>
-<h6 align-"center">Attention! We do not take responsibility if your github account is suspended through this Deploy method, I advise you not to use this workflow deploy method in the latest github accounts, github accounts created a year or more ago have not received the risk of suspension so far, this works It will only be done for 6 hours, you need to update the code to reactivate it.</h6>
-
-```
-name: Node.js CI
-
+## ⚙️ GitHub Workflow
+```yaml
+name: Queen AI Deployment
 on:
   push:
-    branches:
-      - main
-  pull_request:
-    branches:
-      - main
+    branches: [main]
+  workflow_dispatch:
 
 jobs:
-  build:
-
+  deploy:
     runs-on: ubuntu-latest
-
-    strategy:
-      matrix:
-        node-version: [20.x]
-
     steps:
-    - name: Checkout repository
+    - name: Checkout code
       uses: actions/checkout@v3
-
-    - name: Set up Node.js
+      
+    - name: Setup Node.js
       uses: actions/setup-node@v3
       with:
-        node-version: ${{ matrix.node-version }}
-
+        node-version: '20.x'
+        
     - name: Install dependencies
       run: npm install
-
-    - name: Start application
+      
+    - name: Start Bot
       run: npm start
 ```
-</details> 
-<a><img
-***src='https://i.imgur.com/LyHic3i.gif'/>
- 
-## 👑 `Queen AI BOT OWNERS`👨 
+
+---
+
+## 👑 Project Maintainers
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://github.com/AiOfLautech">
+        <img src="https://avatars.githubusercontent.com/u/98765432?v=4" width="100px;" alt="AI-OF-LAUTECH"/>
+        <br/>
+        <sub><b>AI-OF-LAUTECH</b></sub>
+      </a>
+    </td>
+  </tr>
+</table>
+
+---
 
 
-   
-1. |**[`BEYOND-OFFICIAL`](https://github.com/Sudaisz)**|
-
-2. |**[`MALVIN-KING`](https://github.com/kingmalvn)**|
-
-3. |**[`AI-OF-LAUTECH`](https://github.com/AiOfLautech)**|
-
-- and also check thi BOT🎉
-- below ⤵️
+<div align="center">
   
-<a href="https://github.com/kingmalvn/MALVIN-XMD"><img src="https://files.catbox.moe/ktd1l4.jpg" width=80 height=80></a>   
+[![GitHub Stars](https://img.shields.io/github/stars/AiOfLautech/Queen-AI?style=social)](https://github.com/AiOfLautech/Queen-AI/stargazers)
+[![GitHub Forks](https://img.shields.io/github/forks/AiOfLautech/Queen-AI?style=social)](https://github.com/AiOfLautech/Queen-AI/network/members)
 
-|**[`MALVIN-XMD`](https://github.com/kingmalvn/MALVIN-XMD)**|
- <br>
- 
-<a href="https://github.com/Sudaisz/Momo-md"><img src="https://files.catbox.moe/rglenw.jpg" width=80 height=80></a>   
+</div>
 
-|**[`MOMO-MD`](https://github.com/Sudaisz/Momo-md)**|
- <br>
- </p>
-    <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=THANK+U+ALL+FOR+USING;MY+BOT+Queen AI" alt="Typing SVG" /></a>
+---
 
-## DON'T FORGET TO FOLLOW FOR MORE BOT UPDATES 🎉🎉
+<div align="center">
+  
+✨ **THANK YOU FOR CHOOSING QUEEN AI** ✨  
+🚨 **DON'T FORGET TO STAR THE REPOSITORY** 🚨
+
+</div>
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="50" width="100%">
