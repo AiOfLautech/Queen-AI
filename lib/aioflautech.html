@@ -218,7 +218,7 @@
         createParticles();
 
         // Dynamic stats update
-        fetch('https://raw.githubusercontent.com/kingmalvn/MALVIN-XMD/master/package.json')
+        fetch('https://raw.githubusercontent.com/AiOfLautech/Queen-AI/master/package.json')
             .then(response => response.json())
             .then(data => {
                 document.getElementById('version').textContent = `Version ${data.version}`;
