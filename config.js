@@ -2,7 +2,7 @@
 /*
 Project Name : Queen AI 
 Creator      : AI OF LAUTECH 
-Repo         : https//github.com/kingmalvn/MALVIN-XMD
+Repo         : https//github.com/
 Support      : wa.me/2348089336992
 */
 
@@ -20,7 +20,7 @@ SESSION_ID: process.env.SESSION_ID || "",
 AUTO_STATUS_SEEN: process.env.AUTO_STATUS_SEEN || "true",
 //  📌 𝘁𝗿𝘂𝗲 𝗼𝗿 𝗳𝗮𝗹𝘀𝗲 𝗮𝘀 𝗬𝗼𝘂 𝗟𝗶𝗸𝗲 📌 status auto seen
 
-AUTO_STATUS_REPLY: process.env.AUTO_STATUS_REPLY || "true",
+AUTO_STATUS_REPLY: process.env.AUTO_STATUS_REPLY || "false",
 //  📌 𝘁𝗿𝘂𝗲 𝗼𝗿 𝗳𝗮𝗹𝘀𝗲 𝗮𝘀 𝗬𝗼𝘂 𝗟𝗶𝗸𝗲 📌 if you want auto reply on status 
 
 AUTO_STATUS_MSG: process.env.AUTO_STATUS__MSG || "*Status viewed by Queen AI*",
@@ -32,7 +32,7 @@ PREFIX: process.env.PREFIX || ".",
 BOT_NAME: process.env.BOT_NAME || "Queen AI",
 // add bot namw here for menu
 
-STICKER_NAME: process.env.STICKER_NAME || "xᴍᴅ",
+STICKER_NAME: process.env.STICKER_NAME || "Queen 👑 AI",
 // type sticker pack name 
 
 CUSTOM_REACT: process.env.CUSTOM_REACT || "false",
@@ -53,7 +53,7 @@ OWNER_NAME: process.env.OWNER_NAME || "AI OF LAUTECHl",
 DESCRIPTION: process.env.DESCRIPTION || "*© sᴛᴀʏ ᴄᴏɴɴᴇᴄᴛᴇᴅ ғᴏʀ ғᴀɴᴛᴀsᴛɪᴄ ᴜᴘᴅᴀᴛᴇs!*",
 // add bot owner name 
 
-ALIVE_IMG: process.env.ALIVE_IMG || "https://files.catbox.moe/f9k12w.jpg",
+ALIVE_IMG: process.env.ALIVE_IMG || "https://files.catbox.moe/0sm1h3.mp4",
 // add img for alive msg
 
 LIVE_MSG: process.env.LIVE_MSG || "> ɴᴇᴠᴇʀ ᴀʟɪᴠᴇ ʙᴜᴛ ᴀᴡᴀᴋᴇ*🤠",
@@ -62,7 +62,7 @@ LIVE_MSG: process.env.LIVE_MSG || "> ɴᴇᴠᴇʀ ᴀʟɪᴠᴇ ʙᴜᴛ ᴀᴡ
 READ_MESSAGE: process.env.READ_MESSAGE || "false",
 // Turn true or false for automatic read msgs
 
-AUTO_REACT: process.env.AUTO_REACT || "false",
+AUTO_REACT: process.env.AUTO_REACT || "true",
 // make this true or false for auto react on all msgs
 
 ANTI_BAD: process.env.ANTI_BAD || "false",
@@ -83,7 +83,7 @@ AUTO_STICKER: process.env.AUTO_STICKER || "false",
 AUTO_REPLY: process.env.AUTO_REPLY || "false",
 //  📌 𝘁𝗿𝘂𝗲 𝗼𝗿 𝗳𝗮𝗹𝘀𝗲 𝗮𝘀 𝗬𝗼𝘂 𝗟𝗶𝗸𝗲 📌
 
-ALWAYS_ONLINE: process.env.ALWAYS_ONLINE || "false",
+ALWAYS_ONLINE: process.env.ALWAYS_ONLINE || "true",
 //  📌 𝘁𝗿𝘂𝗲 𝗼𝗿 𝗳𝗮𝗹𝘀𝗲 𝗮𝘀 𝗬𝗼𝘂 𝗟𝗶𝗸𝗲 📌
 
 PUBLIC_MODE: process.env.PUBLIC_MODE || "false",
