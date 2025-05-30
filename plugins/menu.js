@@ -52,7 +52,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                     forwardingScore: 999,
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
-                        newsletterJid: '120363306168354073@newsletter',
+                        newsletterJid: '120363269950668068@newsletter',
                         newsletterName: '❦ ════ •⊰❂ AI TOOLS HUB  ❂⊱• ════ ❦',
                         serverMessageId: 143
                     }
@@ -126,7 +126,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                     forwardingScore: 999,
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
-                        newsletterJid: '120363306168354073@newsletter',
+                        newsletterJid: '120363269950668068@newsletter',
                         newsletterName: '❦ ════ •⊰❂ AI TOOLS HUB  ❂⊱• ════ ❦',
                         serverMessageId: 143
                     }
@@ -204,7 +204,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                     forwardingScore: 999,
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
-                        newsletterJid: '120363306168354073@newsletter',
+                        newsletterJid: '120363269950668068@newsletter',
                         newsletterName: '❦ ════ •⊰❂ AI TOOLS HUB  ❂⊱• ════ ❦',
                         serverMessageId: 143
                     }
@@ -269,7 +269,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                     forwardingScore: 999,
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
-                        newsletterJid: '120363306168354073@newsletter',
+                        newsletterJid: '120363269950668068@newsletter',
                         newsletterName: '❦ ════ •⊰❂ AI TOOLS HUB  ❂⊱• ════ ❦',
                         serverMessageId: 143
                     }
@@ -374,7 +374,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                     forwardingScore: 999,
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
-                        newsletterJid: '120363306168354073@newsletter',
+                        newsletterJid: '120363269950668068@newsletter',
                         newsletterName: '❦ ════ •⊰❂ AI TOOLS HUB  ❂⊱• ════ ❦',
                         serverMessageId: 143
                     }
@@ -431,7 +431,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                     forwardingScore: 999,
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
-                        newsletterJid: '120363306168354073@newsletter',
+                        newsletterJid: '120363269950668068@newsletter',
                         newsletterName: '❦ ════ •⊰❂ AI TOOLS HUB  ❂⊱• ════ ❦',
                         serverMessageId: 143
                     }
@@ -477,7 +477,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                     forwardingScore: 999,
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
-                        newsletterJid: '120363306168354073@newsletter',
+                        newsletterJid: '120363269950668068@newsletter',
                         newsletterName: '❦ ════ •⊰❂ AI TOOLS HUB  ❂⊱• ════ ❦',
                         serverMessageId: 143
                     }
@@ -529,7 +529,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                     forwardingScore: 999,
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
-                        newsletterJid: '120363306168354073@newsletter',
+                        newsletterJid: '120363269950668068@newsletter',
                         newsletterName: '❦ ════ •⊰❂ AI TOOLS HUB  ❂⊱• ════ ❦',
                         serverMessageId: 143
                     }
@@ -579,7 +579,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                     forwardingScore: 999,
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
-                        newsletterJid: '120363306168354073@newsletter',
+                        newsletterJid: '120363269950668068@newsletter',
                         newsletterName: '❦ ════ •⊰❂ AI TOOLS HUB  ❂⊱• ════ ❦',
                         serverMessageId: 143
                     }
